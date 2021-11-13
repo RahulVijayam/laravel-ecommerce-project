@@ -11,7 +11,7 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 - Mobile-Friendly Website
 - PayU Money Integrated
 - Subscribe 
-- 3 Step Booking Flow
+- 3 Step Booking Process
 - Order Tracking 
 - Email Notifications
 - Pre-Defined Content with High-Resolution Photos 
