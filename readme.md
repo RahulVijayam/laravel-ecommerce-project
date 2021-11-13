@@ -5,7 +5,7 @@
 ## Ecommerce Website using Laravel 5.8 
 
 Gainaloe is my first e-commerce platform developed for the client, Really it was a great experience for me I have learned a lot from this project.
-
+## Features
 - User-Friendly
 - Mobile-Friendly Website
 - High-Resolution Photos 
@@ -20,7 +20,7 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 
 ## Steps
 
-1. composer require rahulvijayam/ecommerce
+1. <code> composer require rahulvijayam/ecommerce </code>
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
