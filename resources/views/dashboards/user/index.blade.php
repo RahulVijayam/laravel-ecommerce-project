@@ -63,7 +63,7 @@ function closeNav() {
                                         <img src="https://www.lentoprints.com/public/images/user.webp" id="profileimage"  alt="User Image"  class="img-fluid p-5" >
 
                                         @else
-                                            <img src="{{asset('public/Uploads/profiles/'.Auth::user()->image.'')}}"  alt="{{Auth::user()->image}}"   id="profileimage"   class="img-fluid p-5"  >
+                                            <img src="{{asset('Uploads/profiles/'.Auth::user()->image.'')}}"  alt="{{Auth::user()->image}}"   id="profileimage"   class="img-fluid p-5"  >
                                         @endif
                                         </p>
 
