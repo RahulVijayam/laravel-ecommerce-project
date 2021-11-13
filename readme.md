@@ -20,7 +20,10 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 
 ## Steps
 
-1. <code> composer require rahulvijayam/ecommerce </code>
+1. <code> composer create-project rahulvijayam/ecommerce </code>
+2. create database in your project with the name as gainaloe
+3. Now Run <code>php artisan migrate </code> command for creating all the tables 
+4. If you need sample data then just remove the 
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
