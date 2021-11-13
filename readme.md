@@ -16,6 +16,10 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 - Email Notifications
 - Pre-Defined Content with High-Resolution Photos 
 
+## Requirements 
+-   Laravel <=5.8
+-   PHP <= 7.1.3
+-   Composer Version 2 
 ## Installation Steps 
 
 1.  <code> composer create-project rahulvijayam/ecommerce </code>
