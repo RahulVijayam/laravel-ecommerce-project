@@ -1,0 +1,6 @@
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+RewriteRule ^ index.php [L]
+
+
+

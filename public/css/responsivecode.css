@@ -1,0 +1,177 @@
+
+@media (max-width: 768px)
+{ 
+    
+    .mobile-nav-toggle
+    {
+        display:block;
+    }
+    #slide_show_in_desktop_mode
+    {
+        display:none;
+    }
+    #slide_show_in_mobile_mode
+    {
+        display:block;
+    }
+    #teaminthedesktopmode
+    {
+       display: none;
+    }
+    #teaminthemobilemode
+    {
+        display:block;
+    }
+    #testimonialsdesktopmode
+    {
+       display: none;
+    }
+    #testimonialsmobilemode
+    {
+        display:block;
+    }
+    #developedbybtaoteam
+    {
+        text-align:center;
+    }
+    .hide
+    {
+        display:none;
+    }
+    #userdashboardcontent
+    {
+       margin-top:-20%;
+    }
+
+    #mytransactionsindesktopmode
+    {
+        display: none;
+    }
+    #mytransactionsinmobilemode
+    {
+        display:block;
+    }
+
+    #allproductinthehorizontalnavlist
+    {
+        display: none;
+    }
+    #ordersindesktopmode
+    {
+        display: none;
+    }
+    #ordersinmobilemode
+    {
+        display:block;
+    }
+
+    .hide
+    {
+        display:none;
+    }
+    #featuredproductsinmobilemode
+    {
+        display: show;
+    }
+    #featuredproductsindesktopmode
+    {
+        display: none;
+    }
+    #rightsidenavlinks
+    {
+        display: none;
+    }
+    .navbar-brand
+    {
+        margin-right: 35%;
+    }
+    .slideshowimage
+    {
+            height:130px;
+    }
+
+}
+
+
+@media (min-width: 768px)
+{
+     
+   #order_summary
+   {
+    margin-left:25%;
+   }
+   #shipping_and_returns
+   {
+    margin-top:-20px;
+    margin-left: 20%;
+   }
+    
+    .mobile-nav-toggle
+    {
+        display:none;
+    }
+    #slide_show_in_desktop_mode
+    {
+        display:block;
+    }
+    #slide_show_in_mobile_mode
+    {
+        display:none;
+    }
+    #teaminthedesktopmode
+    {
+       display: block;
+    }
+    #teaminthemobilemode
+    {
+        display:none;
+    }
+    
+    #testimonialsdesktopmode
+    {
+       display: block;
+    }
+    #testimonialsmobilemode
+    {
+        display:none;
+    }
+    #developedbybtaoteam
+    {
+        text-align:right;
+    }
+    #helpcenterindesktopmode{
+        display:block;
+    }
+    #helpcenterinmobilemode{
+        display:none;
+    }
+    #mytransactionsindesktopmode
+    {
+        display: block;
+    }
+    #mytransactionsinmobilemode
+    {
+        display:none;
+    }
+    #ordersindesktopmode
+    {
+        display: block;
+    }
+    #ordersinmobilemode
+    {
+        display:none;
+    }
+    #featuredproductsinmobilemode
+    {
+        display: none;
+    }
+    #featuredproductsindesktopmode
+    {
+        display: show;
+    }
+    .callinthemobilemode
+    {
+        display: none;
+    }
+
+}
