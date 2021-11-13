@@ -31,9 +31,8 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
-2. Download new tables  using the link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql
-3. Now, Just drag and drop the products and users tables to your database
-4. Finished, Now Check it in your browser using http://127.0.0.1:8000
+2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
+3. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
 ### Dashboard Details
 - Admin : http://127.0.0.1:8000/admin-dash
