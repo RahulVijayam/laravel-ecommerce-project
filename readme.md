@@ -31,7 +31,7 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 3. Now, Just drag and drop the products and users tables to your database
 4. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
-## Dashboard Details
+### Dashboard Details
 - Admin : http://127.0.0.1:8000/admin-dash
     -   Login Id : rahulvijayanagaram@gmail.com
     -   Password : 111111111
