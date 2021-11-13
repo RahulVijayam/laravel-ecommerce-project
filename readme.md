@@ -18,8 +18,8 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 
 ## Installation Steps 
 
-1. Firstly, <code> composer create-project rahulvijayam/ecommerce </code>
-2. Create database for  your project with the name as gainaloe
+1.  <code> composer create-project rahulvijayam/ecommerce </code>
+2. Create database for  your project with the name as <code>gainaloe</code>
 3. Now Run <code>php artisan migrate </code> command for creating all the tables 
 4. Add your email credentials in <code>.env</code> file
 5. Add PayuMoney <code>merchant key and salt</code> on <code> config/indipay.php</code> file at line number 30 and 31
