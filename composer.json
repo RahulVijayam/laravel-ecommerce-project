@@ -1,6 +1,6 @@
 {
     "name": "rahulvijayam/ecommerce",
-    "type": "library",
+    "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
         "framework",
