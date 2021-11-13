@@ -18,12 +18,17 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 - Admin Dashboard 
 - Subscribe 
 
-## Steps
+## Installation Steps 
 
 1. <code> composer create-project rahulvijayam/ecommerce </code>
 2. create database in your project with the name as gainaloe
 3. Now Run <code>php artisan migrate </code> command for creating all the tables 
-4. If you need sample data then just remove the 
+## Generate Sample Data ( Optional)
+1. Remove tables(products, users) from the  database.
+2. Download new tables  using the link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql
+3. Now, Just drag and drop the products and users tables to your database
+
+## Files Details 
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
