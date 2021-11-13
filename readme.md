@@ -1,4 +1,4 @@
-<p align="center"><img src="https://rahul.btao.in/wp-content/uploads/2021/09/F_Image.jpg" width="400"></p>
+<p align="left"><img src="https://rahul.btao.in/wp-content/uploads/2021/09/F_Image.jpg" width="400"></p>
 
  
 
@@ -6,72 +6,42 @@
 
 Gainaloe is my first e-commerce platform developed for the client, Really it was a great experience for me I have learned a lot from this project.
 ## Features
-- User-Friendly
-- Mobile-Friendly Website
-- High-Resolution Photos 
-- Frequently Asked Questions (FAQ) 
-- Security Features 
-- PayU Money Integrated
-- Detailed Shipping Information
-- Order Tracking 
 - User Dashboard 
 - Admin Dashboard 
+- Mobile-Friendly Website
+- PayU Money Integrated
 - Subscribe 
+- 3 Step Booking Flow
+- Order Tracking 
+- Email Notifications
+- Pre-Defined Content with High-Resolution Photos 
 
 ## Installation Steps 
 
-1. <code> composer create-project rahulvijayam/ecommerce </code>
-2. create database in your project with the name as gainaloe
+1. Firstly, <code> composer create-project rahulvijayam/ecommerce </code>
+2. Create database for  your project with the name as gainaloe
 3. Now Run <code>php artisan migrate </code> command for creating all the tables 
+4. Add your email credentials in <code>.env</code> file
+5. Add PayuMoney <code>merchant key and salt</code> on <code> config/indipay.php</code> file at line number 30 and 31
+6. Start yor project using <code>php artisan migrate</code>
+
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
 2. Download new tables  using the link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql
 3. Now, Just drag and drop the products and users tables to your database
+4. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
-## Files Details 
+## Dashboard Details
+- Admin : http://127.0.0.1:8000/admin-dash
+    -   Login Id : rahulvijayanagaram@gmail.com
+    -   Password : 111111111
+- User  : http://127.0.0.1:8000/dashboard 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project, please send an e-mail to me via [rahul@btao.in](mailto:rahul@btao.in). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The project developed using laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
