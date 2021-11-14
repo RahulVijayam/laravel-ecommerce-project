@@ -39,7 +39,9 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
     -   Login Id : rahulvijayanagaram@gmail.com
     -   Password : 111111111
 - User  : http://127.0.0.1:8000/dashboard 
-
+ 
+### Watch Video
+ [![Everything Is AWESOME](https://user-images.githubusercontent.com/36434065/141663839-bb06d652-1be7-4124-b3ba-76e6354bf456.png)](https://www.youtube.com/watch?v=7JUAX3T37AU "Watch Video")
 
 ## Security Vulnerabilities
 
