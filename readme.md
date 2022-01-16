@@ -45,7 +45,7 @@ Gainaloe is my first e-commerce platform developed for the client, Really it was
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within project, please send an e-mail to me via [rahul@btao.in](mailto:rahul@btao.in). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:contact@rahulvijayam.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
