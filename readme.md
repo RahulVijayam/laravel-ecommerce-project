@@ -2,19 +2,25 @@
 
  
 
-## Ecommerce Website using Laravel 5.8 
+## Laravel Ecommerce Project with Complete Source Code
 
-Gainaloe is my first e-commerce platform developed for the client, Really it was a great experience for me I have learned a lot from this project.
+The Laravel Ecommerce Project with Complete Source Code is a PHP-based web application, For a detailed features, and functionalities of the Laravel Ecommerce Project, please visit my blog 👇 <br>
+🌐 http://rahulvijayam.com/laravel-ecommerce-project-complete-source-code
+
 ## Features
-- User Dashboard 
-- Admin Dashboard 
+- User Dashboard
+- Admin Dashboard
 - Mobile-Friendly Website
-- PayU Money Integrated
-- Subscribe 
 - 3 Step Booking Process
-- Order Tracking 
+- Order Tracking
 - Email Notifications
-- Pre-Defined Content with High-Resolution Photos 
+- Subscriber Form
+- A product search form
+- Payment Gateway(PayU) Integrated
+- Shopping Cart in a Responsive Layout
+- Pre-Defined Content with High-Resolution Photos
+- Search engine optimization (SEO) for Products
+- Recommendations and related products in our categories
 
 ## Requirements 
 -   Laravel <=5.8
